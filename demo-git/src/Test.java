@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Area:" +area);
 		System.out.println("AUTOR: ANDREA");
 		
+		System.out.println("Author: Jakqueline");
 	}
 	
 	public static int getArea(int base, int altura){
