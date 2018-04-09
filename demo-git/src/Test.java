@@ -6,6 +6,7 @@ public class Test {
 		
 		int area = getArea(6,10);
 		System.out.println("Area:" +area);
+		System.out.println("Author: Lilian");
 		
 	}
 	
