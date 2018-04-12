@@ -18,7 +18,7 @@ public class Test {
 	}
 	
 	
-	public static int getAreaCuadrado(int base, int altura){
+	public static int getAreaRectangulo(int base, int altura){
 		int area = base * altura;
 		return area;
 	}
