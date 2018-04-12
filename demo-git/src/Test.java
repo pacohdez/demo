@@ -16,5 +16,12 @@ public class Test {
 		int area = base * altura / 2;
 		return area;
 	}
+	
+	
+	public static int getAreaCuadrado(int base, int altura){
+		int area = base * altura;
+		return area;
+	}
+	
 
 }
