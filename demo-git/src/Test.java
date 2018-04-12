@@ -15,7 +15,7 @@ public class Test {
 	
 	public static int getArea(int base, int altura){
 		int area = base * altura / 2;
-		System.out.println("area: "+area);
+		System.out.println("Area: "+area);
 		return area;
 	}
 
