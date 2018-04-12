@@ -6,8 +6,8 @@ public class Test {
 		
 		int area = getArea(6,10);
 		System.out.println("Area:" +area);
+		System.out.println("Author: Lilian");
 		System.out.println("AUTOR: ANDREA");
-		
 		System.out.println("Author: Jakqueline");
 		System.out.println("Andale Paco si se puede!!!");
 	}
