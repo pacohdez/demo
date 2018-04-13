@@ -18,5 +18,12 @@ public class Test {
 		System.out.println("Area: "+area);
 		return area;
 	}
+	
+	
+	public static int getAreaRectangulo(int base, int altura){
+		int area = base * altura;
+		return area;
+	}
+	
 
 }
